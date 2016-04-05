@@ -1,0 +1,2000 @@
+TALK9X	品牌	酷比魔方
+TALK9X	电池容量	10000mAh
+TALK9X	续航时间	5
+TALK9X	屏幕类型	ips
+TALK9X	屏幕尺寸	9.7
+TALK9X	屏幕分辨率	2048x1536
+TALK9X	系统内存	2GB
+TALK9X	操作系统	android
+TALK9X	存储容量	16GB
+T9	品牌	酷比魔方
+T9	电池容量	10000mAh
+T9	续航时间	7
+T9	屏幕类型	ips
+T9	屏幕尺寸	9.7
+T9	屏幕分辨率	2048x1536
+T9	系统内存	2GB
+T9	操作系统	android
+T9	存储容量	32GB
+PI3100W2	品牌	三星
+PI3100W2	上市时间	2013
+PI3100W2	电池容量	3300mAh
+PI3100W2	屏幕尺寸	7
+PI3100W2	屏幕分辨率	1024x600
+PI3100W2	系统内存	1GB
+PI3100W2	操作系统	android
+PI3100W2	存储容量	8GB
+小米平板	品牌	小米
+小米平板	电池容量	6700mAh
+小米平板	屏幕类型	IPS
+小米平板	屏幕尺寸	7.9
+小米平板	屏幕分辨率	2048×1536
+小米平板	系统内存	2GB
+小米平板	操作系统	android
+小米平板	存储容量	16GB
+V8pro-W32R	品牌	戴尔
+V8pro-W32R	续航时间	10
+V8pro-W32R	屏幕类型	IPS
+V8pro-W32R	屏幕分辨率	1200x800
+V8pro-W32R	系统内存	1GB
+V8pro-W32R	电池容量	4830mAh
+V8pro-W32R	操作系统	windows
+V8pro-W32R	存储容量	32GB
+ME176CX	品牌	华硕
+ME176CX	电池容量	3910mAH
+ME176CX	续航时间	9.5
+ME176CX	屏幕类型	IPS
+ME176CX	屏幕尺寸	7
+ME176CX	屏幕分辨率	1280x800
+ME176CX	系统内存	1GB
+ME176CX	操作系统	android
+ME176CX	存储容量	8GB
+Venue8-3840（V8-BK3840R）	品牌	戴尔
+Venue8-3840（V8-BK3840R）	屏幕类型	IPS
+Venue8-3840（V8-BK3840R）	电池容量	4550mAh
+Venue8-3840（V8-BK3840R）	屏幕分辨率	1920x1200
+Venue8-3840（V8-BK3840R）	系统内存	1GB
+Venue8-3840（V8-BK3840R）	操作系统	android
+Venue8-3840（V8-BK3840R）	存储容量	16GB
+Venue8-3830（V8-BK16R）	品牌	戴尔
+Venue8-3830（V8-BK16R）	屏幕类型	IPS
+Venue8-3830（V8-BK16R）	电池容量	4100mAh
+Venue8-3830（V8-BK16R）	屏幕尺寸	8
+Venue8-3830（V8-BK16R）	屏幕分辨率	1280x800
+Venue8-3830（V8-BK16R）	系统内存	2GB
+Venue8-3830（V8-BK16R）	操作系统	android
+Venue8-3830（V8-BK16R）	存储容量	16GB
+M300	品牌	爱华
+M300	屏幕尺寸	7
+M300	屏幕分辨率	1024x600
+M300	系统内存	512MB
+M300	操作系统	android
+M300	存储容量	8GB
+ME302C	品牌	华硕
+ME302C	续航时间	9
+ME302C	屏幕类型	IPS
+ME302C	屏幕尺寸	10.1
+ME302C	屏幕分辨率	1920x1200
+ME302C	系统内存	2GB
+ME302C	电池容量	6760mAh
+ME302C	操作系统	android
+ME302C	存储容量	16GB
+20C1A013CD	品牌	ThinkPad
+20C1A013CD	续航时间	10
+20C1A013CD	屏幕类型	IPS
+20C1A013CD	屏幕尺寸	10.1
+20C1A013CD	屏幕分辨率	1920x1200
+20C1A013CD	系统内存	4GB
+20C1A013CD	操作系统	windows
+20C1A013CD	存储容量	4GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	128G
+G808	品牌	七彩虹
+G808	上市时间	2014
+G808	电池容量	4000mAh
+G808	屏幕类型	IPS
+G808	屏幕尺寸	8
+G808	屏幕分辨率	1280x800
+G808	系统内存	1GB
+G808	操作系统	android
+G808	存储容量	8GB
+DP101	品牌	dostyle
+DP101	电池容量	7000mAh
+DP101	续航时间	8
+DP101	屏幕类型	Pls
+DP101	屏幕尺寸	10.1
+DP101	屏幕分辨率	1280x800
+DP101	系统内存	1GB
+DP101	操作系统	android
+DP101	存储容量	16GB
+X90HD	品牌	台电
+X90HD	上市时间	2014
+X90HD	电池容量	6500mAh
+X90HD	续航时间	8
+X90HD	屏幕类型	ips
+X90HD	屏幕尺寸	8.9
+X90HD	屏幕分辨率	2560×1600
+X90HD	系统内存	2GB
+X90HD	操作系统	windows
+X90HD	存储容量	32GB
+MD785CH/A	品牌	Apple
+MD785CH/A	续航时间	10
+MD785CH/A	屏幕类型	IPS
+MD785CH/A	屏幕尺寸	9.7
+MD785CH/A	屏幕分辨率	2048x1536
+MD785CH/A	操作系统	ios
+MD785CH/A	存储容量	16GB
+iwork7	品牌	酷比魔方
+iwork7	电池容量	3500mAh
+iwork7	续航时间	3.7
+iwork7	屏幕类型	IPS
+iwork7	屏幕尺寸	7
+iwork7	屏幕分辨率	1280x800
+iwork7	系统内存	2GB
+iwork7	操作系统	windows
+iwork7	存储容量	32GB
+M-30（豪华版）	品牌	索爱
+M-30（豪华版）	上市时间	2013
+M-30（豪华版）	电池容量	2600mAh
+M-30（豪华版）	屏幕类型	高清屏
+M-30（豪华版）	屏幕尺寸	7
+M-30（豪华版）	屏幕分辨率	800x480
+M-30（豪华版）	系统内存	512MB
+M-30（豪华版）	存储容量	8GB
+荣耀X1(型号：7D-503L)	品牌	华为
+荣耀X1(型号：7D-503L)	上市时间	2014
+荣耀X1(型号：7D-503L)	电池容量	5000mAh
+荣耀X1(型号：7D-503L)	续航时间	10
+荣耀X1(型号：7D-503L)	屏幕类型	TFT LTPS
+荣耀X1(型号：7D-503L)	屏幕类型	LTPS
+荣耀X1(型号：7D-503L)	屏幕尺寸	7
+荣耀X1(型号：7D-503L)	屏幕分辨率	1920x1200
+荣耀X1(型号：7D-503L)	系统内存	2G
+荣耀X1(型号：7D-503L)	操作系统	android
+荣耀X1(型号：7D-503L)	存储容量	32GB
+MD531CH/A	品牌	Apple
+MD531CH/A	续航时间	10
+MD531CH/A	屏幕类型	IPS
+MD531CH/A	屏幕尺寸	7.9
+MD531CH/A	屏幕分辨率	1024x768
+MD531CH/A	操作系统	ios
+MD531CH/A	存储容量	16GB
+MOMO21四核	品牌	普耐尔
+MOMO21四核	上市时间	2014
+MOMO21四核	电池容量	6000mAh
+MOMO21四核	续航时间	5
+MOMO21四核	屏幕类型	IPS
+MOMO21四核	屏幕尺寸	9.7
+MOMO21四核	屏幕分辨率	1024x768
+MOMO21四核	系统内存	1GB
+MOMO21四核	操作系统	android
+MOMO21四核	存储容量	16GB
+V975m四核	品牌	昂达
+V975m四核	上市时间	2013
+V975m四核	电池容量	8200mAh
+V975m四核	屏幕类型	retina
+V975m四核	屏幕尺寸	9.7
+V975m四核	屏幕分辨率	2048x1536
+V975m四核	系统内存	2GB
+V975m四核	存储容量	16GB
+N810 i7	品牌	纽索
+N810 i7	上市时间	2014
+N810 i7	电池容量	4150mAh
+N810 i7	屏幕类型	IPS
+N810 i7	屏幕尺寸	8
+N810 i7	屏幕分辨率	1280x800
+N810 i7	系统内存	1GB
+N810 i7	操作系统	android
+N810 i7	存储容量	16GB
+iPad Air 2 16G 深空灰	品牌	Apple
+iPad Air 2 16G 深空灰	续航时间	10
+iPad Air 2 16G 深空灰	屏幕类型	IPS
+iPad Air 2 16G 深空灰	屏幕尺寸	9.7
+iPad Air 2 16G 深空灰	屏幕分辨率	2048x1536
+iPad Air 2 16G 深空灰	系统内存	2GB
+iPad Air 2 16G 深空灰	操作系统	ios
+iPad Air 2 16G 深空灰	存储容量	16GB
+S7-601c	品牌	华为
+S7-601c	上市时间	2013
+S7-601c	电池容量	4100mAh
+S7-601c	续航时间	7
+S7-601c	屏幕类型	IPS
+S7-601c	屏幕尺寸	7
+S7-601c	屏幕分辨率	1024x600
+S7-601c	系统内存	1GB
+S7-601c	操作系统	android
+S7-601c	存储容量	8GB
+W8C	品牌	原道
+W8C	上市时间	2014
+W8C	电池容量	4300mAh
+W8C	续航时间	6小时
+W8C	屏幕类型	IPS
+W8C	屏幕尺寸	8
+W8C	屏幕分辨率	1280x800
+W8C	系统内存	2GB
+W8C	操作系统	windows
+W8C	存储容量	32GB
+T-94S	品牌	索爱
+T-94S	上市时间	2014
+T-94S	电池容量	4000mAh
+T-94S	屏幕尺寸	9.0
+T-94S	屏幕分辨率	1280x800
+T-94S	系统内存	DDR3 1GB
+T-94S	操作系统	android
+T-94S	存储容量	16GB
+i8PRO	品牌	蓝魔
+i8PRO	上市时间	2014年6月
+i8PRO	电池容量	5280mAH
+i8PRO	续航时间	8
+i8PRO	屏幕类型	HFFS
+i8PRO	屏幕尺寸	8
+i8PRO	屏幕分辨率	1280×800
+i8PRO	系统内存	2GB
+i8PRO	操作系统	windows
+i8PRO	存储容量	32GB
+T2556	品牌	三星
+T2556	上市时间	2014
+T2556	电池容量	3200mAh
+T2556	屏幕类型	TFT
+T2556	屏幕尺寸	7
+T2556	屏幕分辨率	1280x720
+T2556	系统内存	1.5GB
+T2556	操作系统	android
+T2556	存储容量	8GB
+EZ-Pad mini	品牌	中柏
+EZ-Pad mini	上市时间	2014
+EZ-Pad mini	电池容量	5000mAh
+EZ-Pad mini	续航时间	8
+EZ-Pad mini	屏幕类型	IPS
+EZ-Pad mini	屏幕尺寸	8
+EZ-Pad mini	屏幕分辨率	1280x800
+EZ-Pad mini	系统内存	2G
+EZ-Pad mini	操作系统	windows
+EZ-Pad mini	存储容量	32GB
+IPad mini 3 128G 金色	品牌	Apple
+IPad mini 3 128G 金色	续航时间	10
+IPad mini 3 128G 金色	屏幕类型	IPS
+IPad mini 3 128G 金色	屏幕尺寸	7.9
+IPad mini 3 128G 金色	屏幕分辨率	2048x1536
+IPad mini 3 128G 金色	系统内存	1GB
+IPad mini 3 128G 金色	操作系统	ios
+IPad mini 3 128G 金色	存储容量	128G
+M-109	品牌	索爱
+M-109	上市时间	2013
+M-109	电池容量	3600mAh
+M-109	屏幕类型	RGB高清屏
+M-109	屏幕尺寸	9.0
+M-109	屏幕分辨率	1024x600
+M-109	系统内存	512MB
+M-109	存储容量	8G
+V101w四核	品牌	昂达
+V101w四核	上市时间	2014
+V101w四核	电池容量	8200mAh
+V101w四核	屏幕类型	IPS
+V101w四核	屏幕尺寸	10.1
+V101w四核	屏幕分辨率	1280×800
+V101w四核	系统内存	2GB
+V101w四核	操作系统	windows
+V101w四核	存储容量	32GB
+V698 4G	品牌	昂达
+V698 4G	上市时间	2014年9月
+V698 4G	电池容量	2800mAh
+V698 4G	屏幕类型	IPS
+V698 4G	屏幕尺寸	6.98
+V698 4G	屏幕分辨率	1280x720
+V698 4G	系统内存	DDR3_1GB
+V698 4G	操作系统	android
+V698 4G	存储容量	8G
+LenovoA5500	品牌	联想
+LenovoA5500	续航时间	10
+LenovoA5500	屏幕类型	IPS
+LenovoA5500	屏幕尺寸	8
+LenovoA5500	屏幕分辨率	1280×800
+LenovoA5500	系统内存	1GB
+LenovoA5500	电池容量	4200mAh
+LenovoA5500	操作系统	android
+LenovoA5500	存储容量	8GB
+20BN000WCD	品牌	ThinkPad
+20BN000WCD	屏幕类型	IPS
+20BN000WCD	操作系统	windows
+20BN000WCD	存储容量	64GB
+TAB S8-50	品牌	联想
+TAB S8-50	续航时间	8
+TAB S8-50	屏幕类型	ips
+TAB S8-50	屏幕尺寸	8
+TAB S8-50	屏幕分辨率	1920x1200
+TAB S8-50	系统内存	2GB
+TAB S8-50	电池容量	4290mAh
+TAB S8-50	操作系统	android
+TAB S8-50	存储容量	16GB
+matrimax iPLAY	品牌	极限矩阵
+matrimax iPLAY	上市时间	2014
+matrimax iPLAY	续航时间	8
+matrimax iPLAY	电池容量	6000mAh
+matrimax iPLAY	屏幕分辨率	1920x1200
+matrimax iPLAY	系统内存	2G
+E1210	品牌	纽索
+E1210	上市时间	2014年8月
+E1210	屏幕类型	IPS
+E1210	电池容量	4100mAh
+E1210	屏幕尺寸	11.6
+E1210	屏幕分辨率	1920x1080
+E1210	系统内存	4GB
+E1210	操作系统	windows
+E1210	存储容量	64GB
+G782	品牌	海尔
+G782	屏幕类型	IPS
+G782	电池容量	5150mAh
+G782	屏幕尺寸	7.85
+G782	屏幕分辨率	2048x1536
+G782	系统内存	2G
+G782	操作系统	android
+G782	存储容量	16GB
+G808 3G	品牌	七彩虹
+G808 3G	上市时间	2014年7月
+G808 3G	电池容量	4000mAh
+G808 3G	屏幕类型	IPS
+G808 3G	屏幕尺寸	8
+G808 3G	屏幕分辨率	1280x800
+G808 3G	系统内存	1GB
+G808 3G	存储容量	8GB
+T-97	品牌	索爱
+T-97	上市时间	2014
+T-97	电池容量	8000mAh
+T-97	屏幕类型	retina
+T-97	屏幕尺寸	9.7
+T-97	屏幕分辨率	2048×1536
+T-97	系统内存	DDR3 2GB 双通道
+T-97	操作系统	android
+T-97	存储容量	16G
+HP 10 Plus 2201RA Tablet	品牌	惠普
+HP 10 Plus 2201RA Tablet	续航时间	6
+HP 10 Plus 2201RA Tablet	屏幕类型	IPS
+HP 10 Plus 2201RA Tablet	屏幕尺寸	10.1
+HP 10 Plus 2201RA Tablet	屏幕分辨率	1920x1200
+HP 10 Plus 2201RA Tablet	系统内存	2GB
+HP 10 Plus 2201RA Tablet	操作系统	android
+HP 10 Plus 2201RA Tablet	存储容量	16GB
+UDN708天乙四核	品牌	友多闻
+UDN708天乙四核	上市时间	2013
+UDN708天乙四核	电池容量	4000mAh
+UDN708天乙四核	屏幕类型	IPS
+UDN708天乙四核	屏幕尺寸	7
+UDN708天乙四核	屏幕分辨率	1024x600
+UDN708天乙四核	系统内存	1GB
+UDN708天乙四核	操作系统	android
+UDN708天乙四核	存储容量	8GB
+M80	品牌	原道
+M80	上市时间	2014年10月
+M80	电池容量	4000mAh
+M80	续航时间	6小时
+M80	屏幕类型	IPS
+M80	屏幕尺寸	8
+M80	屏幕分辨率	1280x800
+M80	系统内存	1GB
+M80	操作系统	android
+M80	存储容量	8GB
+FonePad FE7010CG	品牌	华硕
+FonePad FE7010CG	续航时间	10
+FonePad FE7010CG	屏幕类型	LED背光屏
+FonePad FE7010CG	电池容量	3950mAh
+FonePad FE7010CG	屏幕尺寸	7
+FonePad FE7010CG	屏幕分辨率	1024x600
+FonePad FE7010CG	系统内存	1GB
+FonePad FE7010CG	操作系统	android
+FonePad FE7010CG	存储容量	8GB
+G17h 3G四核	品牌	台电
+G17h 3G四核	上市时间	2014年2月
+G17h 3G四核	电池容量	3000mAh
+G17h 3G四核	续航时间	10
+G17h 3G四核	屏幕类型	ips
+G17h 3G四核	屏幕尺寸	7
+G17h 3G四核	屏幕分辨率	1024x600
+G17h 3G四核	系统内存	1GB
+G17h 3G四核	操作系统	android
+G17h 3G四核	存储容量	8GB
+P600/M16CK	品牌	三星
+P600/M16CK	上市时间	2013
+P600/M16CK	电池容量	8220mAh
+P600/M16CK	屏幕类型	TFT
+P600/M16CK	屏幕尺寸	10.1
+P600/M16CK	屏幕分辨率	2560x1600
+P600/M16CK	系统内存	3GB
+P600/M16CK	操作系统	android
+P600/M16CK	存储容量	16GB
+ThinkPad 8	品牌	ThinkPad
+ThinkPad 8	上市时间	2014
+ThinkPad 8	续航时间	8
+ThinkPad 8	屏幕类型	IPS
+ThinkPad 8	屏幕尺寸	8.3
+ThinkPad 8	屏幕分辨率	1920x1200
+ThinkPad 8	系统内存	4GB
+ThinkPad 8	操作系统	windows
+ThinkPad 8	存储容量	128GB
+小米平板 WIFI 64GB	品牌	小米
+小米平板 WIFI 64GB	上市时间	2014
+小米平板 WIFI 64GB	屏幕类型	IPS
+小米平板 WIFI 64GB	屏幕尺寸	7.9
+小米平板 WIFI 64GB	屏幕分辨率	2048×1536
+小米平板 WIFI 64GB	系统内存	2
+小米平板 WIFI 64GB	操作系统	android
+小米平板 WIFI 64GB	存储容量	64GB
+MD514CH/A	品牌	苹果
+MD514CH/A	屏幕类型	IPS
+MD514CH/A	屏幕尺寸	9.7
+MD514CH/A	屏幕分辨率	2048x1536
+MD514CH/A	操作系统	ios
+MD514CH/A	存储容量	32GB
+驰为V10HD	品牌	驰为
+驰为V10HD	上市时间	2014
+驰为V10HD	电池容量	6800mAh
+驰为V10HD	屏幕类型	ips
+驰为V10HD	屏幕尺寸	10.1
+驰为V10HD	屏幕分辨率	1920x1200
+驰为V10HD	系统内存	2G
+驰为V10HD	操作系统	windows
+驰为V10HD	存储容量	32GB
+P7S	品牌	惠科
+P7S	上市时间	2014
+P7S	屏幕类型	IPS
+P7S	屏幕尺寸	7
+P7S	屏幕分辨率	1280×800
+P7S	系统内存	1GB
+P7S	电池容量	3000mAh
+P7S	操作系统	android
+P7S	存储容量	8GB
+FonePad FE7010CG	品牌	华硕
+FonePad FE7010CG	续航时间	10小时超长使用时间
+FonePad FE7010CG	屏幕类型	LED背光屏
+FonePad FE7010CG	电池容量	3950mAh
+FonePad FE7010CG	屏幕尺寸	7
+FonePad FE7010CG	屏幕分辨率	1024x600
+FonePad FE7010CG	系统内存	2GB
+FonePad FE7010CG	操作系统	android
+FonePad FE7010CG	存储容量	8GB
+PadFone mini	品牌	华硕
+PadFone mini	电池容量	2200mAh
+PadFone mini	屏幕类型	IPS
+PadFone mini	屏幕尺寸	7
+PadFone mini	屏幕分辨率	1280x800
+PadFone mini	系统内存	1G
+PadFone mini	操作系统	android
+PadFone mini	存储容量	8G
+T98 4G八核	品牌	台电
+T98 4G八核	上市时间	2014
+T98 4G八核	电池容量	8500mAh
+T98 4G八核	屏幕类型	ips
+T98 4G八核	屏幕尺寸	9.7
+T98 4G八核	屏幕分辨率	2048×1536
+T98 4G八核	系统内存	2GB
+T98 4G八核	操作系统	android
+T98 4G八核	存储容量	16GB
+台电X98	品牌	台电
+台电X98	上市时间	2014
+台电X98	电池容量	8500mAh
+台电X98	屏幕类型	ips
+台电X98	屏幕尺寸	9.7
+台电X98	屏幕分辨率	2048×1536
+台电X98	系统内存	2GB DDR3L超低功耗内存
+台电X98	操作系统	windows
+台电X98	存储容量	32GB
+SW5-012-172J	品牌	宏碁
+SW5-012-172J	续航时间	8
+SW5-012-172J	屏幕类型	ips
+SW5-012-172J	屏幕尺寸	10.1
+SW5-012-172J	屏幕分辨率	1280x800
+SW5-012-172J	系统内存	2GB
+SW5-012-172J	操作系统	windows
+SW5-012-172J	存储容量	32GB
+V719 3G四核	品牌	昂达
+V719 3G四核	上市时间	2014
+V719 3G四核	电池容量	2800mAh
+V719 3G四核	屏幕类型	TFT
+V719 3G四核	屏幕尺寸	7
+V719 3G四核	屏幕分辨率	1024x600
+V719 3G四核	系统内存	1GB DDR3
+V719 3G四核	操作系统	android
+V719 3G四核	存储容量	8GB
+3G版 T231	品牌	三星
+3G版 T231	上市时间	2014
+3G版 T231	屏幕类型	WXGA
+3G版 T231	屏幕尺寸	7
+3G版 T231	屏幕分辨率	1280×800
+3G版 T231	电池容量	4000mAh
+3G版 T231	操作系统	android
+3G版 T231	存储容量	8GB
+MD525CH/A	品牌	Apple
+MD525CH/A	屏幕类型	IPS
+MD525CH/A	屏幕尺寸	9.7
+MD525CH/A	屏幕分辨率	2048x1536
+MD525CH/A	存储容量	16GB
+V971 四核版	品牌	昂达
+V971 四核版	上市时间	2013
+V971 四核版	电池容量	8000mAh
+V971 四核版	屏幕分辨率	2048x1536
+V971 四核版	系统内存	2G
+P10平板电脑	品牌	半岛铁盒
+P10平板电脑	上市时间	2014
+P10平板电脑	电池容量	6000mAh
+P10平板电脑	续航时间	使用耳机及默认设置播放视频可工作约5小时
+P10平板电脑	屏幕类型	TFT
+P10平板电脑	屏幕尺寸	10.1
+P10平板电脑	屏幕分辨率	1024×600
+P10平板电脑	系统内存	1GB
+P10平板电脑	操作系统	android
+P10平板电脑	存储容量	16GB
+Tablet 2（36793UC）：64G 触控版	品牌	ThinkPad
+Tablet 2（36793UC）：64G 触控版	屏幕类型	IPS
+Tablet 2（36793UC）：64G 触控版	屏幕尺寸	10.1
+Tablet 2（36793UC）：64G 触控版	操作系统	windows
+Tablet 2（36793UC）：64G 触控版	存储容量	64GB
+TAB S8-50	品牌	联想
+TAB S8-50	屏幕类型	ips
+TAB S8-50	屏幕尺寸	8
+TAB S8-50	屏幕分辨率	1920x1200
+TAB S8-50	系统内存	2GB
+TAB S8-50	电池容量	4290mAh
+TAB S8-50	操作系统	android
+TAB S8-50	存储容量	16GB
+X5	品牌	智酷
+X5	上市时间	2012年7月
+X5	电池容量	2600mAh
+X5	续航时间	2
+X5	屏幕类型	TFT
+X5	屏幕尺寸	7
+X5	屏幕分辨率	800x480
+X5	系统内存	512MB
+X5	存储容量	4GB
+DZ800	品牌	读者(duzhe)DZ800
+DZ800	上市时间	2014
+DZ800	电池容量	4000mAh
+DZ800	屏幕类型	IPS
+DZ800	屏幕尺寸	7.85
+DZ800	屏幕分辨率	1024x768
+DZ800	系统内存	1GB
+DZ800	操作系统	android
+DZ800	存储容量	8GB
+X5-双核版	品牌	智酷
+X5-双核版	上市时间	2013
+X5-双核版	电池容量	2500mAh
+X5-双核版	续航时间	2
+X5-双核版	屏幕类型	TFT
+X5-双核版	屏幕分辨率	800x480
+X5-双核版	系统内存	512MB
+X5-双核版	操作系统	android
+X5-双核版	存储容量	4GB
+B1-730HD-1342	品牌	宏碁
+B1-730HD-1342	电池容量	3680mAh
+B1-730HD-1342	续航时间	7
+B1-730HD-1342	屏幕类型	IPS
+B1-730HD-1342	屏幕尺寸	7
+B1-730HD-1342	屏幕分辨率	1280x800
+B1-730HD-1342	系统内存	1GB
+B1-730HD-1342	操作系统	android
+B1-730HD-1342	存储容量	16GB
+G Tablet 10.1 ( LG-V700 )	品牌	LG
+G Tablet 10.1 ( LG-V700 )	上市时间	2014
+G Tablet 10.1 ( LG-V700 )	电池容量	8000mAh
+G Tablet 10.1 ( LG-V700 )	屏幕类型	IPS
+G Tablet 10.1 ( LG-V700 )	屏幕尺寸	10.1
+G Tablet 10.1 ( LG-V700 )	屏幕分辨率	1280x800
+G Tablet 10.1 ( LG-V700 )	系统内存	1GB
+G Tablet 10.1 ( LG-V700 )	操作系统	android
+G Tablet 10.1 ( LG-V700 )	存储容量	16GB
+TF0310C	品牌	华硕
+TF0310C	电池容量	5070mAh
+TF0310C	续航时间	8.5小时
+TF0310C	屏幕类型	IPS
+TF0310C	屏幕尺寸	10.1
+TF0310C	屏幕分辨率	1280x800
+TF0310C	系统内存	1GB
+TF0310C	操作系统	android
+TF0310C	存储容量	16GB
+W11C	品牌	原道
+W11C	上市时间	2014
+W11C	电池容量	8400mAH
+W11C	续航时间	8小时
+W11C	屏幕类型	IPS
+W11C	屏幕尺寸	10.1
+W11C	屏幕分辨率	1920x1200
+W11C	系统内存	2GB
+W11C	操作系统	windows
+W11C	存储容量	64GB
+SA-S39	品牌	索爱
+SA-S39	上市时间	2014
+SA-S39	电池容量	2200MAH
+SA-S39	屏幕尺寸	7
+SA-S39	屏幕分辨率	800x480
+SA-S39	系统内存	512MB
+SA-S39	存储容量	4GB
+GALAXY Note 10.1 P600/M16C	品牌	三星
+GALAXY Note 10.1 P600/M16C	上市时间	2013.9
+GALAXY Note 10.1 P600/M16C	电池容量	8220mAh
+GALAXY Note 10.1 P600/M16C	屏幕类型	TFT
+GALAXY Note 10.1 P600/M16C	屏幕尺寸	10.1
+GALAXY Note 10.1 P600/M16C	屏幕分辨率	2560x1600
+GALAXY Note 10.1 P600/M16C	系统内存	3GB
+GALAXY Note 10.1 P600/M16C	操作系统	android
+GALAXY Note 10.1 P600/M16C	存储容量	16GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	64GB
+SGP511CN/B	品牌	索尼
+SGP511CN/B	屏幕尺寸	10.1
+SGP511CN/B	屏幕分辨率	1920x1200
+SGP511CN/B	操作系统	android
+SGP511CN/B	存储容量	16GB
+荣耀X1爱奇艺版	品牌	华为
+荣耀X1爱奇艺版	上市时间	2014
+荣耀X1爱奇艺版	电池容量	5000mAh
+荣耀X1爱奇艺版	屏幕类型	TFT
+荣耀X1爱奇艺版	屏幕类型	LTPS
+荣耀X1爱奇艺版	屏幕尺寸	7
+荣耀X1爱奇艺版	屏幕分辨率	1920x1200
+荣耀X1爱奇艺版	系统内存	2G
+荣耀X1爱奇艺版	操作系统	android
+荣耀X1爱奇艺版	存储容量	16GB
+WLAN版 T530	品牌	三星
+WLAN版 T530	上市时间	2014
+WLAN版 T530	屏幕尺寸	10.1
+WLAN版 T530	屏幕分辨率	1280×800
+WLAN版 T530	电池容量	6800mAh
+WLAN版 T530	操作系统	android
+WLAN版 T530	存储容量	16GB
+Galaxy Tab Lite T110黑	品牌	三星
+Galaxy Tab Lite T110黑	上市时间	2014.1
+Galaxy Tab Lite T110黑	屏幕类型	TFT
+Galaxy Tab Lite T110黑	屏幕尺寸	7
+Galaxy Tab Lite T110黑	屏幕分辨率	1024x600
+Galaxy Tab Lite T110黑	系统内存	1GB
+Galaxy Tab Lite T110黑	电池容量	3600mAh
+Galaxy Tab Lite T110黑	存储容量	8GB
+MIIX2	品牌	联想
+MIIX2	续航时间	7
+MIIX2	屏幕类型	ips
+MIIX2	屏幕尺寸	8.0
+MIIX2	屏幕分辨率	1280x800
+MIIX2	系统内存	2GB
+MIIX2	操作系统	windows
+MIIX2	存储容量	64G
+ICONIA_W4-820-Z3742G06aii	品牌	宏碁
+ICONIA_W4-820-Z3742G06aii	上市时间	2013
+ICONIA_W4-820-Z3742G06aii	续航时间	8
+ICONIA_W4-820-Z3742G06aii	屏幕类型	IPS
+ICONIA_W4-820-Z3742G06aii	屏幕尺寸	8
+ICONIA_W4-820-Z3742G06aii	屏幕分辨率	1280x800
+ICONIA_W4-820-Z3742G06aii	系统内存	2GB
+ICONIA_W4-820-Z3742G06aii	电池容量	4960mAh
+ICONIA_W4-820-Z3742G06aii	操作系统	windows
+ICONIA_W4-820-Z3742G06aii	存储容量	64GB
+ME581C	品牌	华硕
+ME581C	续航时间	9
+ME581C	屏幕类型	IPS
+ME581C	电池容量	4000mAh
+ME581C	屏幕尺寸	8
+ME581C	屏幕分辨率	1920x1200
+ME581C	系统内存	2GB
+ME581C	存储容量	16GB
+荣耀X1(型号：7D-501u)	品牌	华为
+荣耀X1(型号：7D-501u)	上市时间	2014
+荣耀X1(型号：7D-501u)	续航时间	10
+荣耀X1(型号：7D-501u)	屏幕类型	TFT
+荣耀X1(型号：7D-501u)	屏幕类型	LTPS
+荣耀X1(型号：7D-501u)	屏幕尺寸	7
+荣耀X1(型号：7D-501u)	屏幕分辨率	1920x1200
+荣耀X1(型号：7D-501u)	系统内存	2G
+荣耀X1(型号：7D-501u)	电池容量	5000mAh
+荣耀X1(型号：7D-501u)	操作系统	android
+荣耀X1(型号：7D-501u)	存储容量	16GB
+ViewPad 78N	品牌	优派
+ViewPad 78N	上市时间	2014年5月
+ViewPad 78N	电池容量	3500mAh
+ViewPad 78N	屏幕尺寸	7.85
+ViewPad 78N	屏幕分辨率	1024x768
+ViewPad 78N	系统内存	512MB
+ViewPad 78N	操作系统	android
+ViewPad 78N	存储容量	8GB
+PI7000B2/93	品牌	飞利浦
+PI7000B2/93	电池容量	6000mAh
+PI7000B2/93	屏幕尺寸	8
+HS-X1	品牌	海信
+HS-X1	上市时间	2014
+HS-X1	屏幕类型	ips
+HS-X1	屏幕尺寸	6.8
+HS-X1	屏幕分辨率	1920x1080
+HS-X1	系统内存	2GB
+HS-X1	电池容量	3900mAh
+HS-X1	操作系统	android
+HS-X1	存储容量	16GB
+G Tablet 7.0 ( LG-V400 )	品牌	LG
+G Tablet 7.0 ( LG-V400 )	上市时间	2014
+G Tablet 7.0 ( LG-V400 )	电池容量	4000mAh
+G Tablet 7.0 ( LG-V400 )	屏幕类型	IPS
+G Tablet 7.0 ( LG-V400 )	屏幕尺寸	7
+G Tablet 7.0 ( LG-V400 )	屏幕分辨率	1280x800
+G Tablet 7.0 ( LG-V400 )	系统内存	1GB
+G Tablet 7.0 ( LG-V400 )	操作系统	android
+G Tablet 7.0 ( LG-V400 )	存储容量	8GB
+GT-N5100ZWACHN	品牌	三星
+GT-N5100ZWACHN	上市时间	2013
+GT-N5100ZWACHN	电池容量	4600
+GT-N5100ZWACHN	屏幕类型	TFT
+GT-N5100ZWACHN	屏幕尺寸	8
+GT-N5100ZWACHN	屏幕分辨率	1280x800
+GT-N5100ZWACHN	系统内存	2GB
+GT-N5100ZWACHN	存储容量	16GB
+Surface Pro 3	品牌	微软
+Surface Pro 3	上市时间	2014
+Surface Pro 3	电池容量	10900mAh
+Surface Pro 3	续航时间	9
+Surface Pro 3	屏幕类型	IPS
+Surface Pro 3	屏幕尺寸	12
+Surface Pro 3	屏幕分辨率	2160x1440
+Surface Pro 3	系统内存	4G
+Surface Pro 3	存储容量	64GB
+SW5-271-652C	品牌	宏碁
+SW5-271-652C	续航时间	8
+SW5-271-652C	屏幕类型	ips
+SW5-271-652C	屏幕尺寸	12.5
+SW5-271-652C	屏幕分辨率	1920x1080
+SW5-271-652C	系统内存	4GB
+SW5-271-652C	操作系统	windows
+SW5-271-652C	存储容量	128GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	存储容量	64GB
+E708 Pro	品牌	七彩虹
+E708 Pro	上市时间	2014
+E708 Pro	电池容量	2300mAh
+E708 Pro	屏幕类型	IPS
+E708 Pro	屏幕尺寸	7
+E708 Pro	屏幕分辨率	1280x800
+E708 Pro	系统内存	1GB
+E708 Pro	操作系统	android
+E708 Pro	存储容量	8GB
+云狐J-Pad	品牌	云狐
+云狐J-Pad	上市时间	2013
+云狐J-Pad	电池容量	6000mAh
+云狐J-Pad	续航时间	320小时
+云狐J-Pad	屏幕类型	TFT
+云狐J-Pad	屏幕尺寸	7
+云狐J-Pad	屏幕分辨率	1280x800
+云狐J-Pad	系统内存	1GB
+云狐J-Pad	操作系统	android
+云狐J-Pad	存储容量	16GB
+PI3100W2	品牌	飞利浦
+PI3100W2	上市时间	201304
+PI3100W2	电池容量	3300mAh
+PI3100W2	屏幕类型	超广角绚丽屏
+PI3100W2	屏幕尺寸	7
+PI3100W2	屏幕分辨率	1024x600
+PI3100W2	系统内存	1GB
+PI3100W2	操作系统	android
+PI3100W2	存储容量	8GB
+B1-730HD-11UN	品牌	宏碁
+B1-730HD-11UN	电池容量	3680mAh
+B1-730HD-11UN	续航时间	7
+B1-730HD-11UN	屏幕类型	IPS
+B1-730HD-11UN	屏幕尺寸	7
+B1-730HD-11UN	屏幕分辨率	1280x800
+B1-730HD-11UN	系统内存	1GB
+B1-730HD-11UN	操作系统	android
+B1-730HD-11UN	存储容量	16GB
+SlateBook 10-h011ru X2	品牌	惠普
+SlateBook 10-h011ru X2	屏幕尺寸	10.1
+SlateBook 10-h011ru X2	屏幕分辨率	1920x1200
+SlateBook 10-h011ru X2	系统内存	2GB
+SlateBook 10-h011ru X2	操作系统	android
+SlateBook 10-h011ru X2	存储容量	16GB
+V89	品牌	驰为
+V89	上市时间	2014
+V89	电池容量	6400mAh
+V89	续航时间	250
+V89	屏幕类型	IPS
+V89	屏幕尺寸	8.9
+V89	屏幕分辨率	1920x1200
+V89	系统内存	2G
+V89	操作系统	windows
+V89	存储容量	64GB
+ME102A	品牌	华硕
+ME102A	电池容量	5070mAh
+ME102A	续航时间	9
+ME102A	屏幕类型	IPS
+ME102A	屏幕尺寸	10.1
+ME102A	屏幕分辨率	1280x800
+ME102A	系统内存	1GB
+ME102A	操作系统	android
+ME102A	存储容量	16GB
+T-76	品牌	索爱
+T-76	电池容量	3000mAH
+T-76	屏幕类型	IPS
+T-76	屏幕尺寸	7
+T-76	屏幕分辨率	1024x600
+T-76	系统内存	1GB
+T-76	操作系统	android
+T-76	存储容量	8GB
+S5000	品牌	联想
+S5000	续航时间	8
+S5000	屏幕类型	IPS
+S5000	屏幕尺寸	7
+S5000	屏幕分辨率	1280x800
+S5000	系统内存	1GB
+S5000	电池容量	3450mAh
+S5000	操作系统	android
+S5000	存储容量	16GB
+G17s 3G四核	品牌	台电
+G17s 3G四核	上市时间	2014
+G17s 3G四核	电池容量	2800mAh
+G17s 3G四核	屏幕尺寸	7
+G17s 3G四核	屏幕分辨率	1024x600
+G17s 3G四核	操作系统	android
+G17s 3G四核	存储容量	8GB
+V719 4G	品牌	昂达
+V719 4G	上市时间	2014年9月
+V719 4G	电池容量	2800mAh
+V719 4G	屏幕类型	TFT
+V719 4G	屏幕尺寸	6.95
+V719 4G	屏幕分辨率	1024x600
+V719 4G	系统内存	1GB
+V719 4G	操作系统	android
+V719 4G	存储容量	8G
+V975i四核	品牌	昂达
+V975i四核	上市时间	2014
+V975i四核	电池容量	7500mAh
+V975i四核	屏幕类型	Retina
+V975i四核	屏幕尺寸	9.7
+V975i四核	屏幕分辨率	2048×1536
+V975i四核	系统内存	2GB
+V975i四核	操作系统	android
+V975i四核	存储容量	32GB
+PH70DR8NSCN	品牌	AOC
+PH70DR8NSCN	上市时间	2013
+PH70DR8NSCN	电池容量	3000mAh
+PH70DR8NSCN	续航时间	6
+PH70DR8NSCN	屏幕类型	IPS
+PH70DR8NSCN	屏幕尺寸	7
+PH70DR8NSCN	屏幕分辨率	1280x800
+PH70DR8NSCN	系统内存	1GB
+PH70DR8NSCN	操作系统	android
+PH70DR8NSCN	存储容量	8GB
+i9s	品牌	蓝魔
+i9s	上市时间	2014
+i9s	电池容量	8000mAH
+i9s	续航时间	10
+i9s	屏幕尺寸	8.9
+i9s	系统内存	2GB
+i9s	操作系统	android
+i9s	存储容量	16GB
+P3-131-21292G12as	品牌	宏碁
+P3-131-21292G12as	续航时间	6
+P3-131-21292G12as	屏幕类型	LED背光
+P3-131-21292G12as	屏幕尺寸	11.6
+P3-131-21292G12as	屏幕分辨率	1366x768
+P3-131-21292G12as	系统内存	2G
+P3-131-21292G12as	操作系统	windows
+P3-131-21292G12as	存储容量	120GB
+S8-303L	品牌	华为
+S8-303L	上市时间	2014
+S8-303L	电池容量	4800mAh
+S8-303L	续航时间	7
+S8-303L	屏幕尺寸	8
+S8-303L	屏幕分辨率	1280x800
+S8-303L	操作系统	android
+S8-303L	存储容量	16G
+SM-T111NDWACHN	品牌	三星
+SM-T111NDWACHN	上市时间	2014
+SM-T111NDWACHN	屏幕类型	TFT
+SM-T111NDWACHN	屏幕尺寸	7
+SM-T111NDWACHN	屏幕分辨率	1024x600
+SM-T111NDWACHN	电池容量	3600mAh
+SM-T111NDWACHN	存储容量	8GB
+matrimax iPLAY	品牌	昂达
+matrimax iPLAY	上市时间	2014
+matrimax iPLAY	续航时间	8
+matrimax iPLAY	电池容量	6000mAh
+matrimax iPLAY	屏幕分辨率	1920x1200
+matrimax iPLAY	系统内存	2G
+TALK7X四核	品牌	酷比魔方
+TALK7X四核	电池容量	2700mAh
+TALK7X四核	续航时间	4
+TALK7X四核	屏幕类型	IPS
+TALK7X四核	屏幕尺寸	7
+TALK7X四核	屏幕分辨率	1024x600
+TALK7X四核	系统内存	1GB
+TALK7X四核	存储容量	8GB
+SlateBook 10-h012ru X2	品牌	惠普
+SlateBook 10-h012ru X2	屏幕尺寸	10.1
+SlateBook 10-h012ru X2	屏幕分辨率	1920x1200
+SlateBook 10-h012ru X2	系统内存	2GB
+SlateBook 10-h012ru X2	操作系统	android
+SlateBook 10-h012ru X2	存储容量	64GB
+T-76	品牌	索爱
+T-76	电池容量	3000mAH
+T-76	屏幕类型	IPS
+T-76	屏幕尺寸	7
+T-76	屏幕分辨率	1024x600
+T-76	系统内存	1GB
+T-76	操作系统	android
+T-76	存储容量	8GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	64GB
+iwork10 win8版	品牌	酷比魔方
+iwork10 win8版	电池容量	8000mAh
+iwork10 win8版	续航时间	8
+iwork10 win8版	屏幕类型	IPS
+iwork10 win8版	屏幕尺寸	10.1
+iwork10 win8版	屏幕分辨率	1280x800
+iwork10 win8版	系统内存	2GB
+iwork10 win8版	存储容量	32GB
+V989八核	品牌	昂达
+V989八核	上市时间	2014
+V989八核	电池容量	8000mAh
+V989八核	屏幕类型	IPS
+V989八核	屏幕尺寸	9.7
+V989八核	屏幕分辨率	2048x1536
+V989八核	系统内存	2G
+V989八核	操作系统	android
+V989八核	存储容量	32GB
+ME581C	品牌	华硕
+ME581C	续航时间	9
+ME581C	屏幕类型	IPS
+ME581C	电池容量	4000mAh
+ME581C	屏幕尺寸	8
+ME581C	屏幕分辨率	1920x1200
+ME581C	系统内存	2GB
+ME581C	操作系统	android
+ME581C	存储容量	16GB
+V919 3G 四核	品牌	昂达(ONDA)V919
+V919 3G 四核	上市时间	2014
+V919 3G 四核	电池容量	8000mAh
+V919 3G 四核	续航时间	8h
+V919 3G 四核	屏幕类型	IPS
+V919 3G 四核	屏幕尺寸	9.7
+V919 3G 四核	屏幕分辨率	1024x768
+V919 3G 四核	系统内存	1GB
+V919 3G 四核	操作系统	android
+V919 3G 四核	存储容量	16GB
+MF432CH/A	品牌	Apple
+MF432CH/A	续航时间	10
+MF432CH/A	屏幕类型	IPS
+MF432CH/A	屏幕尺寸	7.9
+MF432CH/A	屏幕分辨率	1024x768
+MF432CH/A	操作系统	ios
+MF432CH/A	存储容量	16GB
+FE7530CXG	品牌	华硕
+FE7530CXG	续航时间	10
+FE7530CXG	屏幕类型	IPS
+FE7530CXG	屏幕尺寸	7
+FE7530CXG	屏幕分辨率	1280x800
+FE7530CXG	系统内存	1GB
+FE7530CXG	电池容量	3950mAh
+FE7530CXG	操作系统	android
+FE7530CXG	存储容量	8GB
+WLAN版 T530	品牌	三星
+WLAN版 T530	上市时间	2014
+WLAN版 T530	屏幕尺寸	10.1
+WLAN版 T530	屏幕分辨率	1280×800
+WLAN版 T530	电池容量	6800mAh
+WLAN版 T530	操作系统	android
+WLAN版 T530	存储容量	16GB
+V891w四核	品牌	昂达
+V891w四核	上市时间	2014
+V891w四核	电池容量	5000mAh
+V891w四核	屏幕类型	retina
+V891w四核	屏幕尺寸	8.9
+V891w四核	屏幕分辨率	1920×1200
+V891w四核	系统内存	2GB
+V891w四核	操作系统	windows
+V891w四核	存储容量	32GB
+V89	品牌	驰为
+V89	上市时间	2014
+V89	电池容量	6400mAh
+V89	屏幕类型	IPS
+V89	屏幕尺寸	8.9
+V89	屏幕分辨率	1920x1200
+V89	系统内存	2G
+V89	操作系统	windows
+V89	存储容量	32GB
+AT10-AT01S	品牌	东芝
+AT10-AT01S	上市时间	2013
+AT10-AT01S	续航时间	12
+AT10-AT01S	屏幕尺寸	10.1
+AT10-AT01S	屏幕分辨率	1280x800
+AT10-AT01S	系统内存	1GB
+AT10-AT01S	操作系统	android
+AT10-AT01S	存储容量	16GB
+M-907	品牌	索爱
+M-907	上市时间	2013
+M-907	电池容量	8000mAh
+M-907	屏幕类型	retina
+M-907	屏幕尺寸	9.7
+M-907	屏幕分辨率	2048×1536
+M-907	系统内存	2GB
+M-907	存储容量	16G
+V17HD	品牌	驰为
+V17HD	上市时间	2014
+V17HD	电池容量	3000mAh
+V17HD	屏幕类型	IPS
+V17HD	屏幕尺寸	7
+V17HD	屏幕分辨率	1024x600
+V17HD	系统内存	512MB
+V17HD	操作系统	android
+V17HD	存储容量	8GB
+派方7X	品牌	清华同方
+派方7X	上市时间	2014
+派方7X	电池容量	2800mAH
+派方7X	续航时间	12
+派方7X	屏幕类型	IPS
+派方7X	屏幕尺寸	7
+派方7X	屏幕分辨率	1024x600
+派方7X	系统内存	1GB
+派方7X	操作系统	android
+派方7X	存储容量	8GB
+PI3100V2	品牌	飞利浦
+PI3100V2	上市时间	2013
+PI3100V2	电池容量	3300mAh
+PI3100V2	屏幕尺寸	7
+PI3100V2	屏幕分辨率	1024x600
+PI3100V2	系统内存	1GB
+PI3100V2	操作系统	android
+PI3100V2	存储容量	8GB
+N810 i7	品牌	Sunreed
+N810 i7	上市时间	2014
+N810 i7	电池容量	4150mAh
+N810 i7	屏幕类型	IPS
+N810 i7	屏幕尺寸	8
+N810 i7	屏幕分辨率	1280x800
+N810 i7	系统内存	1GB
+N810 i7	操作系统	android
+N810 i7	存储容量	16GB
+9976D	品牌	酷派
+9976D	上市时间	2014
+9976D	屏幕类型	IPS
+9976D	屏幕尺寸	7
+9976D	屏幕分辨率	1920x1200
+9976D	系统内存	2GB
+9976D	电池容量	4000Amh
+9976D	操作系统	android
+9976D	存储容量	16GB
+EZ-Pad mid至尊版	品牌	中柏
+EZ-Pad mid至尊版	上市时间	2014
+EZ-Pad mid至尊版	电池容量	7600mAh
+EZ-Pad mid至尊版	续航时间	8
+EZ-Pad mid至尊版	屏幕类型	IPS
+EZ-Pad mid至尊版	屏幕尺寸	10.1
+EZ-Pad mid至尊版	屏幕分辨率	1920x1200
+EZ-Pad mid至尊版	系统内存	2G
+EZ-Pad mid至尊版	操作系统	windows
+EZ-Pad mid至尊版	存储容量	64GB
+MOMO8 W	品牌	普耐尔
+MOMO8 W	上市时间	2014
+MOMO8 W	电池容量	4300mAh
+MOMO8 W	屏幕类型	IPS
+MOMO8 W	屏幕尺寸	8
+MOMO8 W	屏幕分辨率	1280x800
+MOMO8 W	系统内存	2G
+MOMO8 W	操作系统	windows
+MOMO8 W	存储容量	16GB
+T2558	品牌	三星
+T2558	上市时间	2014
+T2558	电池容量	3200mAh
+T2558	屏幕类型	TFT
+T2558	屏幕尺寸	7
+T2558	屏幕分辨率	1280x720
+T2558	系统内存	1.5G
+T2558	操作系统	android
+T2558	存储容量	8GB
+M-30	品牌	索爱
+M-30	电池容量	2600mAh
+M-30	屏幕尺寸	7
+M-30	屏幕分辨率	800x480
+M-30	系统内存	512MB
+M-30	存储容量	8GB
+大神1S（9976T）	品牌	酷派
+大神1S（9976T）	上市时间	2014
+大神1S（9976T）	屏幕类型	IPS
+大神1S（9976T）	屏幕尺寸	7
+大神1S（9976T）	屏幕分辨率	1920x1200
+大神1S（9976T）	系统内存	2GB
+大神1S（9976T）	电池容量	4000mAh
+大神1S（9976T）	操作系统	android
+大神1S（9976T）	存储容量	16GB
+TALK7X八核	品牌	酷比魔方
+TALK7X八核	电池容量	2700mAh
+TALK7X八核	续航时间	3.2
+TALK7X八核	屏幕类型	IPS
+TALK7X八核	屏幕尺寸	7
+TALK7X八核	屏幕分辨率	1024x600
+TALK7X八核	系统内存	1GB
+TALK7X八核	操作系统	android
+TALK7X八核	存储容量	8GB
+ONE TOUCH P320X	品牌	阿尔卡特
+ONE TOUCH P320X	上市时间	2014
+ONE TOUCH P320X	电池容量	4060mAh
+ONE TOUCH P320X	续航时间	6
+ONE TOUCH P320X	屏幕类型	IPS
+ONE TOUCH P320X	屏幕尺寸	8
+ONE TOUCH P320X	屏幕分辨率	1280x800
+ONE TOUCH P320X	系统内存	1GB
+ONE TOUCH P320X	操作系统	android
+ONE TOUCH P320X	存储容量	4GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	16GB
+FE7530CXG	品牌	华硕
+FE7530CXG	续航时间	10
+FE7530CXG	屏幕类型	IPS
+FE7530CXG	屏幕尺寸	7
+FE7530CXG	屏幕分辨率	1280x800
+FE7530CXG	系统内存	1GB
+FE7530CXG	电池容量	3950mAh
+FE7530CXG	操作系统	android
+FE7530CXG	存储容量	8GB
+i10s	品牌	蓝魔
+i10s	上市时间	2014
+i10s	电池容量	10000mAH
+i10s	续航时间	8
+i10s	屏幕类型	IPS
+i10s	屏幕尺寸	10.1
+i10s	屏幕分辨率	1920x1200
+i10s	系统内存	2G
+i10s	操作系统	android
+i10s	存储容量	32GB
+V17PRO	品牌	驰为
+V17PRO	上市时间	2013
+V17PRO	电池容量	3000mAh
+V17PRO	屏幕类型	TN
+V17PRO	屏幕尺寸	7
+V17PRO	屏幕分辨率	1280x600
+V17PRO	系统内存	512MB
+V17PRO	操作系统	android
+V17PRO	存储容量	8GB
+i803 Q1	品牌	七彩虹
+i803 Q1	上市时间	2014
+i803 Q1	电池容量	4500mAh
+i803 Q1	屏幕类型	IPS
+i803 Q1	屏幕尺寸	8
+i803 Q1	屏幕分辨率	1280×800
+i803 Q1	系统内存	1GB
+i803 Q1	操作系统	android
+i803 Q1	存储容量	16GB
+V979m四核	品牌	昂达
+V979m四核	上市时间	2014
+V979m四核	电池容量	8200mAh
+V979m四核	屏幕类型	Retina
+V979m四核	屏幕尺寸	9.7
+V979m四核	屏幕分辨率	2048x1536
+V979m四核	系统内存	2GB
+V979m四核	操作系统	android
+V979m四核	存储容量	32GB
+X5四核IPS	品牌	智酷(WitCool)
+X5四核IPS	上市时间	2014年10月
+X5四核IPS	电池容量	2800mAh
+X5四核IPS	续航时间	5
+X5四核IPS	屏幕类型	IPS
+X5四核IPS	屏幕分辨率	ips
+X5四核IPS	系统内存	1G
+X5四核IPS	操作系统	android
+X5四核IPS	存储容量	8GB
+B1-730HD-1342	品牌	宏碁
+B1-730HD-1342	电池容量	3680mAh
+B1-730HD-1342	续航时间	7
+B1-730HD-1342	屏幕类型	IPS
+B1-730HD-1342	屏幕尺寸	7
+B1-730HD-1342	屏幕分辨率	1280x800
+B1-730HD-1342	系统内存	1GB
+B1-730HD-1342	操作系统	android
+B1-730HD-1342	存储容量	16GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	128G
+F10	品牌	MEEGOPAD
+F10	上市时间	2014
+F10	电池容量	8400mAh
+F10	续航时间	8
+F10	屏幕类型	IPS
+F10	屏幕尺寸	10.1
+F10	屏幕分辨率	1280x800
+F10	系统内存	2G
+F10	操作系统	windows
+F10	存储容量	64GB
+PadFone mini	品牌	华硕
+PadFone mini	电池容量	2200mAh
+PadFone mini	屏幕类型	IPS
+PadFone mini	屏幕尺寸	7
+PadFone mini	屏幕分辨率	1280x800
+PadFone mini	系统内存	1G
+PadFone mini	操作系统	android
+PadFone mini	存储容量	8G
+G Tablet 7.0 ( LG-V400 )	品牌	LG
+G Tablet 7.0 ( LG-V400 )	上市时间	2014
+G Tablet 7.0 ( LG-V400 )	电池容量	4000mAh
+G Tablet 7.0 ( LG-V400 )	屏幕类型	IPS
+G Tablet 7.0 ( LG-V400 )	屏幕尺寸	7
+G Tablet 7.0 ( LG-V400 )	屏幕分辨率	1280x800
+G Tablet 7.0 ( LG-V400 )	系统内存	1GB
+G Tablet 7.0 ( LG-V400 )	操作系统	android
+G Tablet 7.0 ( LG-V400 )	存储容量	8GB
+4G版 TAB S T805C	品牌	三星
+4G版 TAB S T805C	上市时间	2014
+4G版 TAB S T805C	屏幕类型	AMOLED
+4G版 TAB S T805C	电池容量	7900mAh
+4G版 TAB S T805C	屏幕尺寸	10.5
+4G版 TAB S T805C	屏幕分辨率	2560x1600
+4G版 TAB S T805C	系统内存	3GB
+4G版 TAB S T805C	操作系统	android
+4G版 TAB S T805C	存储容量	16GB
+V961w四核	品牌	昂达
+V961w四核	上市时间	2014年10月
+V961w四核	电池容量	5500mAh
+V961w四核	屏幕类型	IPS
+V961w四核	屏幕尺寸	9.6
+V961w四核	屏幕分辨率	1280×800
+V961w四核	系统内存	2GB
+V961w四核	操作系统	windows
+V961w四核	存储容量	32GB
+小米平板 WIFI 64GB	品牌	小米
+小米平板 WIFI 64GB	上市时间	2014
+小米平板 WIFI 64GB	屏幕类型	IPS
+小米平板 WIFI 64GB	屏幕尺寸	7.9
+小米平板 WIFI 64GB	屏幕分辨率	2048×1536
+小米平板 WIFI 64GB	系统内存	2G
+小米平板 WIFI 64GB	操作系统	android
+小米平板 WIFI 64GB	存储容量	64GB
+WLAN版 T230	品牌	三星
+WLAN版 T230	上市时间	2014
+WLAN版 T230	屏幕尺寸	7
+WLAN版 T230	屏幕分辨率	1280×800
+WLAN版 T230	电池容量	4000mAh
+WLAN版 T230	操作系统	android
+WLAN版 T230	存储容量	8GB
+WLAN版 T320	品牌	三星
+WLAN版 T320	上市时间	2014
+WLAN版 T320	屏幕类型	TFT
+WLAN版 T320	电池容量	4800mAh
+WLAN版 T320	屏幕尺寸	8.4寸
+WLAN版 T320	屏幕分辨率	2560x1600
+WLAN版 T320	系统内存	2GB
+WLAN版 T320	操作系统	android
+WLAN版 T320	存储容量	16GB
+M10	品牌	原道
+M10	上市时间	2013
+M10	电池容量	7200mAh
+M10	续航时间	8小时
+M10	屏幕类型	retina
+M10	屏幕尺寸	10.1
+M10	屏幕分辨率	1920x1200
+M10	系统内存	DDR3 2GB
+M10	存储容量	16GB
+ThinkPad 8 (20BN001BCD)	品牌	ThinkPad
+ThinkPad 8 (20BN001BCD)	上市时间	2014
+ThinkPad 8 (20BN001BCD)	续航时间	8小时
+ThinkPad 8 (20BN001BCD)	屏幕类型	IPS
+ThinkPad 8 (20BN001BCD)	屏幕尺寸	8.3
+ThinkPad 8 (20BN001BCD)	屏幕分辨率	1920x1200
+ThinkPad 8 (20BN001BCD)	系统内存	2GB
+ThinkPad 8 (20BN001BCD)	存储容量	128GB
+联想YOGA 平板 2-1050F	品牌	联想
+联想YOGA 平板 2-1050F	电池容量	9600mAh
+联想YOGA 平板 2-1050F	屏幕类型	ips
+联想YOGA 平板 2-1050F	屏幕尺寸	10.1
+联想YOGA 平板 2-1050F	屏幕分辨率	1920x1200
+联想YOGA 平板 2-1050F	系统内存	2GB
+联想YOGA 平板 2-1050F	操作系统	android
+联想YOGA 平板 2-1050F	存储容量	16GB
+FonePad FE7010CG	品牌	华硕
+FonePad FE7010CG	续航时间	10小
+FonePad FE7010CG	屏幕类型	LED
+FonePad FE7010CG	电池容量	3950mAh
+FonePad FE7010CG	屏幕尺寸	7
+FonePad FE7010CG	屏幕分辨率	1024x600
+FonePad FE7010CG	系统内存	2GB
+FonePad FE7010CG	操作系统	android
+FonePad FE7010CG	存储容量	8GB
+TF0310C	品牌	华硕
+TF0310C	续航时间	8
+TF0310C	屏幕类型	IPS
+TF0310C	屏幕尺寸	10.1
+TF0310C	屏幕分辨率	1280x800
+TF0310C	系统内存	1GB
+TF0310C	操作系统	android
+TF0310C	存储容量	16GB
+i9s	品牌	蓝魔
+i9s	上市时间	2014
+i9s	电池容量	8000 mAH
+i9s	续航时间	10
+i9s	屏幕类型	IPS
+i9s	屏幕尺寸	8.9
+i9s	屏幕分辨率	1920x1200
+i9s	系统内存	2GB
+i9s	操作系统	windows
+i9s	存储容量	32GB
+G Tablet 8.3 ( LG-V500 )	品牌	LG
+G Tablet 8.3 ( LG-V500 )	电池容量	4600mAh
+G Tablet 8.3 ( LG-V500 )	屏幕类型	IPS
+G Tablet 8.3 ( LG-V500 )	屏幕尺寸	8.3
+G Tablet 8.3 ( LG-V500 )	屏幕分辨率	1920x1200
+G Tablet 8.3 ( LG-V500 )	系统内存	2GB
+G Tablet 8.3 ( LG-V500 )	存储容量	16GB
+PI3100Z3	品牌	飞利浦
+PI3100Z3	屏幕尺寸	7
+PI3100Z3	屏幕分辨率	1024x600
+PI3100Z3	系统内存	1GB
+PI3100Z3	存储容量	16GB
+U39GT	品牌	酷比魔方
+U39GT	电池容量	5200mAh
+U39GT	续航时间	7
+U39GT	屏幕类型	PLS
+U39GT	屏幕尺寸	9
+U39GT	屏幕分辨率	1920x1280
+U39GT	系统内存	2GB
+U39GT	操作系统	android
+U39GT	存储容量	16GB
+驰为DX1	品牌	驰为
+驰为DX1	上市时间	2014
+驰为DX1	电池容量	3000mAh
+驰为DX1	屏幕类型	IPS
+驰为DX1	屏幕尺寸	6.98
+驰为DX1	屏幕分辨率	1280x720
+驰为DX1	系统内存	1GB
+驰为DX1	操作系统	android
+驰为DX1	存储容量	16GB
+HP Slate 7 6201RA 3G Tablet	品牌	惠普
+HP Slate 7 6201RA 3G Tablet	电池容量	4100mAh
+HP Slate 7 6201RA 3G Tablet	屏幕类型	IPS
+HP Slate 7 6201RA 3G Tablet	屏幕尺寸	7
+HP Slate 7 6201RA 3G Tablet	屏幕分辨率	1280x800
+HP Slate 7 6201RA 3G Tablet	系统内存	1GB
+HP Slate 7 6201RA 3G Tablet	存储容量	16GB
+Galaxy Tab Lite T110白	品牌	三星
+Galaxy Tab Lite T110白	上市时间	2014
+Galaxy Tab Lite T110白	屏幕类型	TFT
+Galaxy Tab Lite T110白	屏幕尺寸	7
+Galaxy Tab Lite T110白	屏幕分辨率	1024x600
+Galaxy Tab Lite T110白	系统内存	1GB
+Galaxy Tab Lite T110白	电池容量	3600mAh
+Galaxy Tab Lite T110白	存储容量	8GB
+V102w四核	品牌	昂达
+V102w四核	上市时间	2014
+V102w四核	电池容量	8200mAh
+V102w四核	屏幕类型	IPS
+V102w四核	屏幕尺寸	10.1
+V102w四核	屏幕分辨率	1920×1200
+V102w四核	系统内存	2GB
+V102w四核	操作系统	windows
+V102w四核	存储容量	32GB
+X98 3G	品牌	易方
+X98 3G	上市时间	2014
+X98 3G	电池容量	8500mAh
+X98 3G	续航时间	8
+X98 3G	屏幕类型	ips
+X98 3G	屏幕尺寸	9.7
+X98 3G	屏幕分辨率	2048×1536
+X98 3G	系统内存	2GB
+X98 3G	操作系统	android
+X98 3G	存储容量	32GB
+A78四核版	品牌	台电
+A78四核版	上市时间	2014
+A78四核版	电池容量	2400mAh
+A78四核版	屏幕尺寸	7
+A78四核版	屏幕分辨率	1024x600
+A78四核版	操作系统	android
+A78四核版	存储容量	8GB
+4G版 T705	品牌	三星
+4G版 T705	上市时间	2014
+4G版 T705	电池容量	4900mAh
+4G版 T705	屏幕类型	AMOLED
+4G版 T705	屏幕尺寸	8.4
+4G版 T705	屏幕分辨率	2560x1600
+4G版 T705	系统内存	3GB
+4G版 T705	操作系统	android
+4G版 T705	存储容量	16GB
+联想YOGA 平板 2 Pro -1380	品牌	联想
+联想YOGA 平板 2 Pro -1380	屏幕类型	ips
+联想YOGA 平板 2 Pro -1380	屏幕尺寸	13.3
+联想YOGA 平板 2 Pro -1380	屏幕分辨率	2560x1440
+联想YOGA 平板 2 Pro -1380	系统内存	2GB LPDDR3
+联想YOGA 平板 2 Pro -1380	电池容量	9600mAh
+联想YOGA 平板 2 Pro -1380	操作系统	android
+联想YOGA 平板 2 Pro -1380	存储容量	32GB
+I6	品牌	酷比魔方
+I6	电池容量	8000mAh
+I6	屏幕类型	retina
+I6	屏幕尺寸	9.7
+I6	屏幕分辨率	2048x1536
+I6	系统内存	2GB
+I6	操作系统	android
+I6	存储容量	32GB
+P19HD	品牌	台电
+P19HD	上市时间	2014
+P19HD	电池容量	7500mAh
+P19HD	屏幕类型	ips
+P19HD	屏幕尺寸	10.1
+P19HD	屏幕分辨率	1920×1200
+P19HD	系统内存	2GB
+P19HD	操作系统	android
+P19HD	存储容量	16GB
+Surface Pro 3	品牌	微软
+Surface Pro 3	上市时间	2014
+Surface Pro 3	电池容量	10900毫安
+Surface Pro 3	续航时间	9
+Surface Pro 3	屏幕类型	IPS
+Surface Pro 3	屏幕尺寸	12
+Surface Pro 3	屏幕分辨率	2160x1440
+Surface Pro 3	系统内存	8G
+Surface Pro 3	操作系统	windows
+Surface Pro 3	存储容量	512G
+Galaxy Tab3 T211	品牌	三星
+Galaxy Tab3 T211	上市时间	2013
+Galaxy Tab3 T211	电池容量	4000mAh
+Galaxy Tab3 T211	屏幕类型	TFT
+Galaxy Tab3 T211	屏幕尺寸	7
+Galaxy Tab3 T211	屏幕分辨率	1024x600
+Galaxy Tab3 T211	系统内存	1GB
+Galaxy Tab3 T211	操作系统	android
+Galaxy Tab3 T211	存储容量	8GB
+HomePadX1	品牌	长虹
+HomePadX1	上市时间	2013
+HomePadX1	续航时间	5
+HomePadX1	屏幕类型	IPS
+HomePadX1	屏幕尺寸	7
+HomePadX1	屏幕分辨率	1280x800
+HomePadX1	系统内存	2GB
+HomePadX1	操作系统	android
+HomePadX1	存储容量	16GB
+iwork8	品牌	酷比魔方
+iwork8	电池容量	5000mAh
+iwork8	续航时间	4
+iwork8	屏幕类型	IPS
+iwork8	屏幕尺寸	8
+iwork8	屏幕分辨率	1280x800
+iwork8	系统内存	1GB
+iwork8	操作系统	windows
+iwork8	存储容量	16GB
+荣耀X1(型号：7D-503L)	品牌	华为
+荣耀X1(型号：7D-503L)	上市时间	2014年4月
+荣耀X1(型号：7D-503L)	电池容量	5000mAh
+荣耀X1(型号：7D-503L)	续航时间	10
+荣耀X1(型号：7D-503L)	屏幕类型	TFT
+荣耀X1(型号：7D-503L)	屏幕类型	LTPS
+荣耀X1(型号：7D-503L)	屏幕尺寸	7
+荣耀X1(型号：7D-503L)	屏幕分辨率	1920x1200
+荣耀X1(型号：7D-503L)	系统内存	2G
+荣耀X1(型号：7D-503L)	操作系统	android
+荣耀X1(型号：7D-503L)	存储容量	16GB
+P601/M32CK	品牌	三星
+P601/M32CK	上市时间	2013
+P601/M32CK	电池容量	8220mAh
+P601/M32CK	屏幕类型	TFT
+P601/M32CK	屏幕尺寸	10.1
+P601/M32CK	屏幕分辨率	2560x1600
+P601/M32CK	系统内存	3GB
+P601/M32CK	操作系统	android
+P601/M32CK	存储容量	32GB
+SM-T9000ZKACHN	品牌	三星
+SM-T9000ZKACHN	上市时间	2014
+SM-T9000ZKACHN	屏幕类型	WQXGA
+SM-T9000ZKACHN	屏幕尺寸	12.2
+SM-T9000ZKACHN	屏幕分辨率	2560x1600
+SM-T9000ZKACHN	系统内存	3GB
+SM-T9000ZKACHN	电池容量	9500mAh
+SM-T9000ZKACHN	存储容量	32GB
+T100TAF	品牌	华硕
+T100TAF	续航时间	11
+T100TAF	屏幕类型	ips
+T100TAF	屏幕尺寸	10.1
+T100TAF	屏幕分辨率	1366x768
+T100TAF	系统内存	2GB
+T100TAF	操作系统	windows
+T100TAF	存储容量	32GB
+M-950S	品牌	索爱
+M-950S	上市时间	2013
+M-950S	电池容量	4000mAh
+M-950S	屏幕尺寸	9
+M-950S	屏幕分辨率	1280x800
+M-950S	系统内存	1GB
+M-950S	存储容量	16GB
+V819w四核	品牌	昂达
+V819w四核	上市时间	2014
+V819w四核	电池容量	4000mAh
+V819w四核	屏幕类型	IPS
+V819w四核	屏幕尺寸	8
+V819w四核	屏幕分辨率	1280x800
+V819w四核	系统内存	1GB
+V819w四核	操作系统	windows
+V819w四核	存储容量	16GB
+i9s	品牌	蓝魔
+i9s	上市时间	2014
+i9s	电池容量	8000mAH
+i9s	续航时间	10
+i9s	屏幕类型	IPS
+i9s	屏幕尺寸	8.9
+i9s	屏幕分辨率	1920x1200
+i9s	系统内存	2GB
+i9s	操作系统	android
+i9s	存储容量	32GB
+i9s	品牌	蓝魔
+i9s	上市时间	2014
+i9s	电池容量	8000mAH
+i9s	续航时间	10
+i9s	屏幕类型	IPS
+i9s	屏幕尺寸	8.9
+i9s	屏幕分辨率	1920x1200
+i9s	系统内存	2GB
+i9s	操作系统	windows
+i9s	存储容量	32GB
+MD513CH/A	品牌	Apple
+MD513CH/A	屏幕类型	IPS
+MD513CH/A	屏幕尺寸	9.7
+MD513CH/A	屏幕分辨率	2048x1536
+MD513CH/A	操作系统	ios
+MD513CH/A	存储容量	16GB
+TALK9X	品牌	酷比魔方
+TALK9X	电池容量	10000mAh
+TALK9X	续航时间	5.3
+TALK9X	屏幕尺寸	9.7
+TALK9X	屏幕分辨率	2048x1536
+TALK9X	系统内存	2GB
+TALK9X	操作系统	android
+TALK9X	存储容量	32GB
+LenovoA5500	品牌	联想
+LenovoA5500	续航时间	10
+LenovoA5500	屏幕类型	IPS
+LenovoA5500	屏幕尺寸	8
+LenovoA5500	屏幕分辨率	1280×800
+LenovoA5500	系统内存	1GB
+LenovoA5500	电池容量	4200mAh
+LenovoA5500	操作系统	android
+LenovoA5500	存储容量	8GB
+IPad mini 3 128GB 深空灰	品牌	Apple
+IPad mini 3 128GB 深空灰	续航时间	10
+IPad mini 3 128GB 深空灰	屏幕类型	IPS
+IPad mini 3 128GB 深空灰	屏幕尺寸	7.9
+IPad mini 3 128GB 深空灰	屏幕分辨率	2048x1536
+IPad mini 3 128GB 深空灰	系统内存	1GB
+IPad mini 3 128GB 深空灰	操作系统	ios
+IPad mini 3 128GB 深空灰	存储容量	128GB
+W11C	品牌	原道
+W11C	上市时间	2014
+W11C	电池容量	8400mAH
+W11C	续航时间	8小时
+W11C	屏幕类型	IPS
+W11C	屏幕尺寸	10.1
+W11C	屏幕分辨率	1920x1200
+W11C	系统内存	2GB
+W11C	操作系统	windows
+W11C	存储容量	64GB
+V101w四核	品牌	昂达
+V101w四核	上市时间	2014
+V101w四核	电池容量	6600mAh
+V101w四核	屏幕类型	IPS
+V101w四核	屏幕尺寸	10.1
+V101w四核	屏幕分辨率	1280×800
+V101w四核	系统内存	2GB
+V101w四核	操作系统	windows
+V101w四核	存储容量	32GB
+K6	品牌	蓝魔
+K6	上市时间	2014.3
+K6	电池容量	5700mAH
+K6	续航时间	8
+K6	屏幕类型	IPS
+K6	屏幕尺寸	8.9
+K6	屏幕分辨率	1920x1200
+K6	系统内存	2GB
+K6	操作系统	android
+K6	存储容量	16GB
+A3500	品牌	联想
+A3500	续航时间	8
+A3500	屏幕类型	IPS
+A3500	屏幕尺寸	7
+A3500	屏幕分辨率	1280x800
+A3500	系统内存	1GB
+A3500	电池容量	3450mAh
+A3500	操作系统	android
+A3500	存储容量	16GB
+联想YOGA 平板 2-1050F	品牌	联想
+联想YOGA 平板 2-1050F	电池容量	9600mAh
+联想YOGA 平板 2-1050F	屏幕类型	ips
+联想YOGA 平板 2-1050F	屏幕尺寸	10.1
+联想YOGA 平板 2-1050F	屏幕分辨率	1920x1200
+联想YOGA 平板 2-1050F	系统内存	2GB LPDDR3
+联想YOGA 平板 2-1050F	操作系统	android
+联想YOGA 平板 2-1050F	存储容量	16GB
+M-30（豪华版）	品牌	索爱
+M-30（豪华版）	上市时间	2013
+M-30（豪华版）	电池容量	2600mAh
+M-30（豪华版）	屏幕尺寸	7
+M-30（豪华版）	屏幕分辨率	800x480
+M-30（豪华版）	系统内存	512MB
+M-30（豪华版）	存储容量	8GB
+DP801	品牌	dostyle
+DP801	屏幕类型	IPS
+DP801	屏幕尺寸	8
+DP801	屏幕分辨率	1024x768
+DP801	系统内存	1G
+DP801	存储容量	16GB
+Venue8-3840（V8-RED3840R）	品牌	戴尔
+Venue8-3840（V8-RED3840R）	屏幕类型	IPS
+Venue8-3840（V8-RED3840R）	电池容量	4550mAh
+Venue8-3840（V8-RED3840R）	屏幕尺寸	8.0
+Venue8-3840（V8-RED3840R）	屏幕分辨率	1920x1200
+Venue8-3840（V8-RED3840R）	系统内存	1GB
+Venue8-3840（V8-RED3840R）	操作系统	android
+Venue8-3840（V8-RED3840R）	存储容量	16GB
+PI3100B2/93	品牌	飞利浦
+PI3100B2/93	屏幕尺寸	7
+MD786CH/A	品牌	Apple
+MD786CH/A	续航时间	10
+MD786CH/A	屏幕类型	IPS
+MD786CH/A	屏幕尺寸	9.7
+MD786CH/A	屏幕分辨率	2048x1536
+MD786CH/A	操作系统	ios
+MD786CH/A	存储容量	32GB
+20C1A014CD	品牌	ThinkPad
+20C1A014CD	电池容量	33Wh
+20C1A014CD	续航时间	10
+20C1A014CD	屏幕类型	IPS
+20C1A014CD	屏幕尺寸	10.1
+20C1A014CD	屏幕分辨率	1920x1200
+20C1A014CD	系统内存	4GB
+20C1A014CD	操作系统	windows
+20C1A014CD	存储容量	4GB
+P98 Air八核	品牌	台电
+P98 Air八核	上市时间	2014
+P98 Air八核	电池容量	8000mAh
+P98 Air八核	续航时间	8
+P98 Air八核	屏幕类型	ips
+P98 Air八核	屏幕尺寸	9.7
+P98 Air八核	屏幕分辨率	2048×1536
+P98 Air八核	系统内存	2GB
+P98 Air八核	操作系统	android
+P98 Air八核	存储容量	32GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2GB
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	16GB
+ME371MG	品牌	华硕
+ME371MG	电池容量	4270mAh
+ME371MG	续航时间	9
+ME371MG	屏幕类型	ips
+ME371MG	屏幕尺寸	7
+ME371MG	屏幕分辨率	1280x800
+ME371MG	系统内存	1GB
+ME371MG	操作系统	android
+ME371MG	存储容量	16GB
+EZ-Pad mini 精速版	品牌	中柏
+EZ-Pad mini 精速版	上市时间	2014
+EZ-Pad mini 精速版	电池容量	5000mAh
+EZ-Pad mini 精速版	续航时间	8
+EZ-Pad mini 精速版	屏幕类型	IPS
+EZ-Pad mini 精速版	屏幕尺寸	8
+EZ-Pad mini 精速版	屏幕分辨率	1280x800
+EZ-Pad mini 精速版	系统内存	1G
+EZ-Pad mini 精速版	操作系统	windows
+EZ-Pad mini 精速版	存储容量	16GB
+V812 四核版	品牌	昂达
+V812 四核版	上市时间	2012
+V812 四核版	屏幕类型	IPS
+V812 四核版	屏幕尺寸	8
+V812 四核版	屏幕分辨率	1024x768
+V812 四核版	系统内存	2GB
+V812 四核版	电池容量	4400mAh
+V812 四核版	操作系统	android
+V812 四核版	存储容量	16GB
+DZ800	品牌	读者
+DZ800	上市时间	2014
+DZ800	电池容量	4000mAh
+DZ800	屏幕类型	IPS
+DZ800	屏幕尺寸	7.85
+DZ800	屏幕分辨率	1024x768
+DZ800	系统内存	1GB
+DZ800	操作系统	android
+DZ800	存储容量	8GB
+联想YOGA 平板 2-830LC	品牌	联想
+联想YOGA 平板 2-830LC	电池容量	6400mAh
+联想YOGA 平板 2-830LC	屏幕类型	ips
+联想YOGA 平板 2-830LC	屏幕尺寸	8
+联想YOGA 平板 2-830LC	屏幕分辨率	1920x1200
+联想YOGA 平板 2-830LC	系统内存	2GB
+联想YOGA 平板 2-830LC	操作系统	android
+联想YOGA 平板 2-830LC	存储容量	16GB
+M-805	品牌	索爱
+M-805	上市时间	2013
+M-805	电池容量	3000mAh
+M-805	屏幕尺寸	8
+M-805	屏幕分辨率	1024×768
+M-805	系统内存	DDR3 1GB
+M-805	存储容量	16GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	64GB
+i977A 3G	品牌	七彩虹
+i977A 3G	上市时间	2014
+i977A 3G	电池容量	8000mAH
+i977A 3G	屏幕类型	IPS
+i977A 3G	屏幕尺寸	9.7
+i977A 3G	屏幕分辨率	2048x1536
+i977A 3G	系统内存	2GB
+i977A 3G	操作系统	android
+i977A 3G	存储容量	64GB
+小米平板	品牌	小米
+小米平板	上市时间	2014
+小米平板	电池容量	6700mAh
+小米平板	屏幕类型	IPS
+小米平板	屏幕尺寸	7.9
+小米平板	屏幕分辨率	2048×1536
+小米平板	系统内存	2
+小米平板	操作系统	android
+小米平板	存储容量	16GB
+B1-730HD-170L	品牌	宏碁
+B1-730HD-170L	电池容量	3680mAh
+B1-730HD-170L	续航时间	7
+B1-730HD-170L	屏幕类型	IPS
+B1-730HD-170L	屏幕尺寸	7
+B1-730HD-170L	屏幕分辨率	1280x800
+B1-730HD-170L	系统内存	1GB
+B1-730HD-170L	操作系统	android
+B1-730HD-170L	存储容量	16GB
+P78s四核	品牌	台电
+P78s四核	上市时间	2013年9月
+P78s四核	电池容量	3000mAh
+P78s四核	续航时间	8.5
+P78s四核	屏幕类型	ips
+P78s四核	屏幕尺寸	7
+P78s四核	屏幕分辨率	1280x800
+P78s四核	系统内存	1GB
+P78s四核	操作系统	android
+P78s四核	存储容量	8GB
+V812 四核版	品牌	昂达
+V812 四核版	上市时间	2012
+V812 四核版	电池容量	4400mAh
+V812 四核版	系统内存	2GB
+F10	品牌	MEEGOPAD
+F10	上市时间	2014
+F10	电池容量	8400mAh
+F10	续航时间	8
+F10	屏幕类型	IPS
+F10	屏幕尺寸	10.1
+F10	屏幕分辨率	1280x800
+F10	系统内存	2G
+F10	操作系统	windows
+F10	存储容量	64GB
+W27PRO	品牌	蓝魔
+W27PRO	上市时间	2013
+W27PRO	电池容量	6400mAH
+W27PRO	续航时间	8
+W27PRO	屏幕类型	TFT
+W27PRO	屏幕尺寸	10.1
+W27PRO	屏幕分辨率	1024x600
+W27PRO	系统内存	1GB
+W27PRO	操作系统	android
+W27PRO	存储容量	16GB
+AT7-BT01G	品牌	东芝
+AT7-BT01G	上市时间	2014
+AT7-BT01G	屏幕尺寸	7
+AT7-BT01G	屏幕分辨率	1024x600
+AT7-BT01G	系统内存	1GB
+AT7-BT01G	操作系统	android
+AT7-BT01G	存储容量	8GB
+派方pie fun P80(语音通话)	品牌	清华同方
+派方pie fun P80(语音通话)	电池容量	3500mAH
+派方pie fun P80(语音通话)	续航时间	8
+派方pie fun P80(语音通话)	屏幕类型	IPS
+派方pie fun P80(语音通话)	屏幕尺寸	8
+派方pie fun P80(语音通话)	屏幕分辨率	1280x800
+派方pie fun P80(语音通话)	系统内存	1GB
+派方pie fun P80(语音通话)	操作系统	android
+派方pie fun P80(语音通话)	存储容量	16GB
+SM-T3100GNACHN	品牌	三星
+SM-T3100GNACHN	屏幕类型	TFT
+SM-T3100GNACHN	屏幕尺寸	8
+SM-T3100GNACHN	屏幕分辨率	1280x800
+SM-T3100GNACHN	系统内存	1.5GB
+SM-T3100GNACHN	电池容量	4450mAh
+SM-T3100GNACHN	存储容量	16GB
+IPad mini 3 16G 金色	品牌	Apple
+IPad mini 3 16G 金色	屏幕类型	IPS
+IPad mini 3 16G 金色	屏幕尺寸	7.9
+IPad mini 3 16G 金色	屏幕分辨率	2048x1536
+IPad mini 3 16G 金色	系统内存	1GB
+IPad mini 3 16G 金色	操作系统	ios
+IPad mini 3 16G 金色	存储容量	16GB
+驰为V10HD	品牌	驰为
+驰为V10HD	上市时间	2014
+驰为V10HD	电池容量	6800mAh
+驰为V10HD	屏幕类型	ips
+驰为V10HD	屏幕尺寸	10.1
+驰为V10HD	屏幕分辨率	1920x1200
+驰为V10HD	系统内存	2G
+驰为V10HD	操作系统	windows
+驰为V10HD	存储容量	64GB
+P79HD	品牌	台电
+P79HD	上市时间	2014
+P79HD	电池容量	3500mAh
+P79HD	屏幕类型	ips
+P79HD	屏幕尺寸	7
+P79HD	屏幕分辨率	1920×1200
+P79HD	系统内存	1GB
+P79HD	操作系统	android
+P79HD	存储容量	16GB
+IMINI P71W	品牌	清华同方
+IMINI P71W	上市时间	2014
+IMINI P71W	电池容量	2400mAh
+IMINI P71W	续航时间	12
+IMINI P71W	屏幕类型	IPS
+IMINI P71W	屏幕尺寸	7
+IMINI P71W	屏幕分辨率	1024x600
+IMINI P71W	系统内存	1GB
+IMINI P71W	操作系统	android
+IMINI P71W	存储容量	8GB
+FonePad FE7010CG	品牌	华硕
+FonePad FE7010CG	续航时间	10
+FonePad FE7010CG	屏幕类型	LED
+FonePad FE7010CG	电池容量	3950mAh
+FonePad FE7010CG	屏幕尺寸	7
+FonePad FE7010CG	屏幕分辨率	1024x600
+FonePad FE7010CG	系统内存	2GB
+FonePad FE7010CG	操作系统	android
+FonePad FE7010CG	存储容量	8GB
+iPad Air 2	品牌	Apple
+iPad Air 2	续航时间	10
+iPad Air 2	屏幕类型	IPS
+iPad Air 2	屏幕尺寸	9.7
+iPad Air 2	屏幕分辨率	2048x1536
+iPad Air 2	系统内存	2G
+iPad Air 2	操作系统	ios
+iPad Air 2	存储容量	64GB
+N31D	品牌	爱国者
+N31D	电池容量	3000mAh
+N31D	屏幕分辨率	1280×800
+A88 mini四核	品牌	台电
+A88 mini四核	上市时间	2014
+A88 mini四核	电池容量	4000mAh
+A88 mini四核	屏幕尺寸	7.9
+A88 mini四核	屏幕分辨率	1024×768
+A88 mini四核	系统内存	1GB
+A88 mini四核	操作系统	android
+A88 mini四核	存储容量	8GB
+MF246CH/A	品牌	Apple
+MF246CH/A	续航时间	10
+MF246CH/A	屏幕类型	IPS
+MF246CH/A	屏幕尺寸	7.9
+MF246CH/A	屏幕分辨率	2048x1536
+MF246CH/A	操作系统	ios
+MF246CH/A	存储容量	64GB
+大神（9976A）	品牌	酷派
+大神（9976A）	上市时间	2014
+大神（9976A）	屏幕类型	IPS
+大神（9976A）	屏幕尺寸	7
+大神（9976A）	屏幕分辨率	1920x1200
+大神（9976A）	系统内存	2GB
+大神（9976A）	电池容量	4000mA
+大神（9976A）	存储容量	8GB
+W1048	品牌	海尔
+W1048	续航时间	8
+W1048	屏幕类型	IPS
+W1048	屏幕尺寸	10.1
+W1048	屏幕分辨率	1280x800
+W1048	系统内存	2GB
+W1048	电池容量	7900mAh
+W1048	操作系统	windows
+W1048	存储容量	64GB
+X82	品牌	爱国者
+X82	上市时间	2013
+X82	电池容量	4150mAh
+X82	续航时间	8
+X82	屏幕类型	IPS
+X82	屏幕尺寸	8
+X82	屏幕分辨率	1280x800
+X82	系统内存	1GB
+X82	存储容量	16GB
+V101w四核	品牌	Kindle
+V101w四核	上市时间	2014
+V101w四核	电池容量	6600mAh
+V101w四核	屏幕类型	IPS
+V101w四核	屏幕尺寸	10.1
+V101w四核	屏幕分辨率	1280×800
+V101w四核	系统内存	2GB
+V101w四核	操作系统	windows
+V101w四核	存储容量	32GB
+P601/M16C	品牌	三星
+P601/M16C	上市时间	2013
+P601/M16C	电池容量	8220mAh
+P601/M16C	屏幕类型	TFT
+P601/M16C	屏幕尺寸	10.1
+P601/M16C	屏幕分辨率	2560x1600
+P601/M16C	系统内存	3GB
+P601/M16C	存储容量	16GB
+V801s四核	品牌	昂达
+V801s四核	上市时间	2014
+V801s四核	电池容量	4000mAh
+V801s四核	屏幕类型	IPS
+V801s四核	屏幕尺寸	8
+V801s四核	屏幕分辨率	1280x800
+V801s四核	系统内存	512MB
+V801s四核	操作系统	android
+V801s四核	存储容量	16GB
+W8S	品牌	原道
+W8S	上市时间	2014
+W8S	电池容量	4300mAh
+W8S	续航时间	6
+W8S	屏幕类型	IPS
+W8S	屏幕尺寸	8
+W8S	屏幕分辨率	1280x800
+W8S	系统内存	2GB
+W8S	操作系统	windows
+W8S	存储容量	64GB
+SM-T3110GNACHN	品牌	三星
+SM-T3110GNACHN	上市时间	2013
+SM-T3110GNACHN	屏幕类型	TFT
+SM-T3110GNACHN	屏幕尺寸	8
+SM-T3110GNACHN	屏幕分辨率	1280x800
+SM-T3110GNACHN	系统内存	1GB
+SM-T3110GNACHN	电池容量	4450mAh
+SM-T3110GNACHN	存储容量	16GB
+20C1A012CD	品牌	ThinkPad
+20C1A012CD	续航时间	10
+20C1A012CD	屏幕类型	IPS
+20C1A012CD	屏幕尺寸	10.1
+20C1A012CD	屏幕分辨率	1920x1200
+20C1A012CD	系统内存	4GB
+20C1A012CD	操作系统	windows
+20C1A012CD	存储容量	4GB
+i9s	品牌	蓝魔
+i9s	上市时间	2014
+i9s	电池容量	8000mAH
+i9s	续航时间	10
+i9s	屏幕类型	IPS
+i9s	屏幕尺寸	8.9
+i9s	屏幕分辨率	1920x1200
+i9s	系统内存	2GB
+i9s	操作系统	android
+i9s	存储容量	32GB
+Q79四核3G版(非合约版)	品牌	惠科
+Q79四核3G版(非合约版)	上市时间	2013
+Q79四核3G版(非合约版)	屏幕类型	IPS
+Q79四核3G版(非合约版)	屏幕尺寸	7.9
+Q79四核3G版(非合约版)	屏幕分辨率	1024x768
+Q79四核3G版(非合约版)	系统内存	1GB
+Q79四核3G版(非合约版)	电池容量	4500mAh
+Q79四核3G版(非合约版)	存储容量	4G
